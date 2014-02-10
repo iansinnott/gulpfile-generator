@@ -1,6 +1,6 @@
 # Gulpfile Generator
 
-#### A simple ruby script to generate a guplfile for compiling Sass stylesheets.
+#### A simple ruby script to generate a gulpfile for compiling Sass stylesheets.
 
 Gulp.js can be used for many things. This script only sets up a base gulpfile.js and installs all the packages necessary for super fast Sass compilation through node-sass. You should check out the Gulp.js Homepage for info on the project itself.
 
