@@ -2,11 +2,14 @@
 
 #### A simple ruby script to generate a gulpfile for compiling Sass stylesheets.
 
-Gulp.js can be used for many things. This script only sets up a base gulpfile.js and installs all the packages necessary for super fast Sass compilation through node-sass. You should check out the Gulp.js Homepage for info on the project itself.
+Gulp.js can be used for many things. This script only sets up a base gulpfile.js and installs all the packages necessary for super fast Sass compilation through [node-sass.][nodesass] You should check out the [Gulp.js][gulpjs] Homepage for info on the project itself.
+
+[nodesass]: https://github.com/andrew/node-sass
+[gulpjs]: http://gulpjs.com/
 
 ## Install
 
-1. Clone the repo: `git clone this repo`
+1. Clone the repo: `git clone git@github.com:iansinnott/gulpfile-generator.git`
 2. Link the file: `ln -sh path/to/gulpgen.rb /usr/local/bin/gulpgen`
 
 After linking, you will probably have to restart your terminal window to access the `gulpgen` command in your path. 
